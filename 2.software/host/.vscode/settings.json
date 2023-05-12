@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "led.h": "c",
+    "call_win.h": "c",
+    "gui_app.h": "c",
+    "login_win.h": "c",
+    "lvgl.h": "c",
+    "sys.h": "c",
+    "stm32f10x.h": "c",
+    "lv_ta.h": "c",
+    "lv_spinbox.h": "c",
+    "send.h": "c",
+    "FONT.H": "cpp",
+    "lora.h": "c"
+  }
+}
