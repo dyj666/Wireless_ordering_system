@@ -157,6 +157,4 @@
 ..\obj\call_win.o: ..\GUI_APP\gui_app.h
 ..\obj\call_win.o: ..\HARDWARE\24CXX\24cxx.h
 ..\obj\call_win.o: ..\HARDWARE\IIC\myiic.h
-..\obj\call_win.o: ..\HARDWARE\LORA\Send.h
-..\obj\call_win.o: ..\HARDWARE\LED\led.h
 ..\obj\call_win.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

@@ -3,7 +3,6 @@
 #include "sys.h"
 #include "lvgl.h"
 #include "24cxx.h" 
-#include "Send.h"
 
 
 //窗体返回事件,这是我们自己定义的一个事件,所定义的值只要不和littleVGL自带的事件值冲突即可

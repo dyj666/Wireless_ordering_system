@@ -157,6 +157,4 @@
 ..\obj\login_win.o: ..\GUI_APP\gui_app.h
 ..\obj\login_win.o: ..\HARDWARE\24CXX\24cxx.h
 ..\obj\login_win.o: ..\HARDWARE\IIC\myiic.h
-..\obj\login_win.o: ..\HARDWARE\LORA\Send.h
-..\obj\login_win.o: ..\HARDWARE\LED\led.h
 ..\obj\login_win.o: ..\GUI_APP\WIN\main_win.h

@@ -168,4 +168,3 @@
 ..\obj\main.o: ..\GUI\lvgl_driver\lv_port_disp.h
 ..\obj\main.o: ..\GUI\lvgl_driver\lv_port_indev.h
 ..\obj\main.o: ..\GUI_APP\gui_app.h
-..\obj\main.o: ..\HARDWARE\LORA\Send.h

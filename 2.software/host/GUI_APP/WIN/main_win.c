@@ -4,7 +4,6 @@
 #include "calendar_win.h"
 #include "call_win.h"
 #include "chart_win.h"
-#include "gauge_win.h"
 
 //ÉêÃ÷Í¼Æ¬
 LV_IMG_DECLARE(logo_img);
@@ -163,7 +162,6 @@ void setting_tab_init(lv_obj_t * parent)
 	lv_label_set_recolor(quit_label,true);
 	lv_label_set_text(quit_label,"#FF0000 Quit#");
 	lv_obj_set_event_cb(quit_btn,event_handler);
-	
 }
 
 

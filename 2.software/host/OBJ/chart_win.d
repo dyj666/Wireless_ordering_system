@@ -157,5 +157,3 @@
 ..\obj\chart_win.o: ..\GUI_APP\gui_app.h
 ..\obj\chart_win.o: ..\HARDWARE\24CXX\24cxx.h
 ..\obj\chart_win.o: ..\HARDWARE\IIC\myiic.h
-..\obj\chart_win.o: ..\HARDWARE\LORA\Send.h
-..\obj\chart_win.o: ..\HARDWARE\LED\led.h

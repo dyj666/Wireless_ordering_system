@@ -955,11 +955,6 @@
               <FilePath>..\GUI_APP\WIN\chart_win.c</FilePath>
             </File>
             <File>
-              <FileName>gauge_win.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\GUI_APP\WIN\gauge_win.c</FilePath>
-            </File>
-            <File>
               <FileName>login_win.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\GUI_APP\WIN\login_win.c</FilePath>

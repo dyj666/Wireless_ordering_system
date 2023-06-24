@@ -107,7 +107,6 @@
 "..\obj\gui_app.o"
 "..\obj\calendar_win.o"
 "..\obj\chart_win.o"
-"..\obj\gauge_win.o"
 "..\obj\login_win.o"
 "..\obj\main_win.o"
 "..\obj\chart_img.o"

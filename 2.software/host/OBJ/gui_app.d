@@ -156,6 +156,4 @@
 ..\obj\gui_app.o: ..\GUI\lvgl\src/lv_draw/lv_img_cache.h
 ..\obj\gui_app.o: ..\HARDWARE\24CXX\24cxx.h
 ..\obj\gui_app.o: ..\HARDWARE\IIC\myiic.h
-..\obj\gui_app.o: ..\HARDWARE\LORA\Send.h
-..\obj\gui_app.o: ..\HARDWARE\LED\led.h
 ..\obj\gui_app.o: ..\GUI_APP\WIN\login_win.h

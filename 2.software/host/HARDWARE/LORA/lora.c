@@ -78,12 +78,6 @@ void Lora_Init(void)
 }
 
 
-
-
-
-
-
-
 void SendString(char *s)
 {
 	while(*s)
@@ -123,15 +117,6 @@ void USART2_IRQHandler()
     USART_ClearITPendingBit(USART2,USART_IT_RXNE);
 		
     rx_temp[0] = USART_ReceiveData(USART2);
-
-    // rx_data[rx_count++] = rx_temp[0];
-    // SendString(rx_temp);
-    printf("%c",rx_temp[0]);
-    // if(rx_count > 4)
-    // {
-    //   rx_count = 0;
-    //   rx_flag = 1;
-    // }
   }
 }
 

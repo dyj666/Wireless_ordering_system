@@ -157,10 +157,7 @@
 ..\obj\main_win.o: ..\GUI_APP\gui_app.h
 ..\obj\main_win.o: ..\HARDWARE\24CXX\24cxx.h
 ..\obj\main_win.o: ..\HARDWARE\IIC\myiic.h
-..\obj\main_win.o: ..\HARDWARE\LORA\Send.h
-..\obj\main_win.o: ..\HARDWARE\LED\led.h
 ..\obj\main_win.o: ..\GUI_APP\WIN\login_win.h
 ..\obj\main_win.o: ..\GUI_APP\WIN\calendar_win.h
 ..\obj\main_win.o: ..\GUI_APP\WIN\call_win.h
 ..\obj\main_win.o: ..\GUI_APP\WIN\chart_win.h
-..\obj\main_win.o: ..\GUI_APP\WIN\gauge_win.h
